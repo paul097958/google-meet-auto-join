@@ -9,6 +9,14 @@ Then follow the steps below.
 
 ## *step one*
 Use terminal to enter the program folder and enter
+
+enter 
+```
+git clone https://github.com/paul097958/google-meet-auto-join.git
+```
+to download the code
+
+and run
 ```
 npm install 
 ```
