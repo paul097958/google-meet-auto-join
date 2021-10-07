@@ -51,13 +51,8 @@
         "mass": "process.env.googlemeet"
     },{
         "style": "clickstyle",
-        "xpath": "/html/body/c-wiz/div/div[2]/div/div[1]/div[3]/div/div/div[2]/button",
-        "time": 0,
-        "mass": 0
-    },{
-        "style": "clickstyle",
-        "xpath": "/html/body/c-wiz/div/div[2]/div/div[1]/div[3]/div/div/div[2]/button",
-        "time": 20000,
+        "xpath": "//*[@id=\"yDmH0d\"]/c-wiz/div/div[2]/div/div[1]/div[3]/div/div/div[2]/button",
+        "time": 15000,
         "mass": 0
     },{
         "style": "clickstyle",
